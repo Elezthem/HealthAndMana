@@ -1,0 +1,2 @@
+# HealthAndMana
+Easy Code
